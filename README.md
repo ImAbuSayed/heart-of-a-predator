@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-of-a-predator/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Heart of a Predator](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-of-a-predator/) |
+| **Get License** | [Commercial Licensing for Heart of a Predator](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-of-a-predator/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b1a5bad6f0acda228d6f00ab26f306c5f1c099c0f40b96f38740894fa20fbf3f` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

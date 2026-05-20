@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heart of a Predator
+
+This log tracks the cryptographic history and versioning for the song **Heart of a Predator** (heart-of-a-predator).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T20:10:06.826483 | `v1` | `b1a5bad6f0acda228d6f00ab26f306c5f1c099c0f40b96f38740894fa20fbf3f` | `fcaedff704402b13dbd0e0ee48f0501547e197bbb18cc77f7d8c2f4e17f5f2e2` | `2026-05-20_heart-of-a-predator-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
